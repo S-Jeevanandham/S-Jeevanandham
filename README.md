@@ -6,7 +6,7 @@ Passionate about building secure, scalable, and user-friendly web applications u
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 I recently completed my bachelor's degree and am currently pursuing a master's
 
@@ -23,7 +23,7 @@ Passionate about building secure, scalable, and user-friendly web applications u
 🚀 Open to Software Developer Opportunities
 
 ---
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
 
@@ -54,7 +54,7 @@ Passionate about building secure, scalable, and user-friendly web applications u
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge\&logo=intellijidea)
 
 ---
-# 💼 Featured Project
+## 💼 Featured Project
 
 ### 🤖 AI-Based Resume Verification System
 
@@ -79,7 +79,7 @@ An intelligent full-stack application that analyzes resumes using Machine Learni
 
 ---
 
-# 🤖 AI & Emerging Technologies
+## 🤖 AI & Emerging Technologies
 
 ![GenerativeAI](https://img.shields.io/badge/Generative-AI-orange?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-AI-green?style=for-the-badge)
@@ -94,7 +94,7 @@ An intelligent full-stack application that analyzes resumes using Machine Learni
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -105,7 +105,7 @@ An intelligent full-stack application that analyzes resumes using Machine Learni
 ---
 
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -114,7 +114,7 @@ An intelligent full-stack application that analyzes resumes using Machine Learni
 </p>
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeevanandham-sivasankaran-2425042b4">
